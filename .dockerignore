@@ -2,3 +2,4 @@ start.bat
 Dockerfile
 package.json
 README.md
+docker-compose.yml
